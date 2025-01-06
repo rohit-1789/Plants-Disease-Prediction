@@ -119,13 +119,6 @@ plant-disease-prediction/
 
 Contributions are welcome! Please fork this repository and submit a pull request for any feature additions or bug fixes.
 
----
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
 
 ## Acknowledgments
 
